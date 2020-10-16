@@ -4,11 +4,11 @@ Criterion is a unit testing framework for C (and C++).
 
 ## Requirement
 
-Criterion must be installed on your laptop !
+**[Criterion](https://github.com/Snaipe/Criterion)** must be installed on your laptop !
 
 ## Installation
 
-For the use of criterion it will be necessary to install gcovr.
+For the use of criterion it will be necessary to install **gcovr**.
 Gcovr allows you to measure the number of lines tested by Criterion.
 
 ```bash
