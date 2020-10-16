@@ -19,5 +19,7 @@ int main()
     res = my_rem(res, a);
     my_putchar(res + '0');
     my_putchar('\n');
+    write(1, "standard\n", 9);
+    write(2, "error\n", 6);
     return (0);
 }
